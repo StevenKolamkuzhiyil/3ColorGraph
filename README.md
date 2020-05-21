@@ -4,6 +4,8 @@ A console application which creates solutions to the 3 coloring problem of a gra
 about process syncronization and inter process communication. Process syncronization was implemented through the use 
 of semaphores and inter process communication through shared memory.
 
+Additional information to the graph coloring problem: https://en.wikipedia.org/wiki/Graph_coloring
+
 ## Getting Started
 
 Clone the repository and navigate to the /src folder. Compile the program and run the supervisor. After starting the 
