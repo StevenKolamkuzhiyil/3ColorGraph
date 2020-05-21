@@ -36,13 +36,13 @@ Run 5 generators:
 $ for i in {1..5}; do (./generator 0-1 0-2 1-2 &); done
 ```
 
-### Documentation
+## Documentation
 
 Navigate to /doc and run following command to generate a documentation.
 ```
 $ doxygen Doxyfile
 ```
 
-#### Additional Information
+## Additional Information
 
 The application was only tested on Linux.
